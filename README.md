@@ -4,7 +4,7 @@ Welcome to my personal portfolio website 👋
 This website showcases my skills, projects, and experience as an IT Developer.
 
 🔗 **Live Website:**  
-https://yourusername.github.io/portfolio
+https://github.com/JohnQuyt3824/portfolio.git
 
 ---
 
@@ -53,20 +53,11 @@ I am eager to learn new technologies and contribute to real projects in a profes
 - Node.js + SQL Server
 - Cart, checkout, admin dashboard
 - Statistics and reporting
-- 🔗 GitHub: https://github.com/yourusername/ecommerce-project
+- 🔗 GitHub: https://github.com/JohnQuyt3824/portfolio.git
 
 ### 📊 Power BI Business Dashboard
 - Sales, inventory, customer analysis
 - Interactive dashboard for decision making
-- 🔗 Demo: (add link if you have)
-
-### ☁️ Cloud Server Deployment
-- Ubuntu Server setup
-- Apache, HTTPS, Virtual Host
-- Website deployment
-- 🔗 Details: (add link)
-
----
 
 ## 🚀 Deployment
 
@@ -75,6 +66,6 @@ This portfolio is deployed using **GitHub Pages**.
 To run locally:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/JohnQuyt3824/portfolio.git
 cd portfolio
 open index.html
